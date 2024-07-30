@@ -19,7 +19,8 @@ function App() {
 
   return (
     <div className="app">
-      <BrowserRouter>
+      Hello tanu how are you i think browserRouter is not working need
+      {/* <BrowserRouter>
         <ThemeProvider theme={theme}>
           <CssBaseline />
           <Routes>
@@ -34,7 +35,7 @@ function App() {
             />
           </Routes>
         </ThemeProvider>
-      </BrowserRouter>
+      </BrowserRouter> */}
     </div>
   );
 }
